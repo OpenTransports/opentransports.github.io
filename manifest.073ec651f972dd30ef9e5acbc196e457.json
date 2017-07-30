@@ -1,9 +1,0 @@
-{
-  "name": "OpenTransports",
-  "orientation": "portrait",
-  "display": "standalone",
-  "start_url": ".",
-  "short_name": "OpenTransports",
-  "description": "Find nearest public transports",
-  "background_color": "#2962FF"
-}
