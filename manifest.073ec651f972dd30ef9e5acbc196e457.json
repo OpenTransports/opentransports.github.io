@@ -3,7 +3,6 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "publicPath": null,
   "short_name": "OpenTransports",
   "description": "Find nearest public transports",
   "background_color": "#2962FF"
